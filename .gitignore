@@ -1,0 +1,20 @@
+# Build/Environment
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Test/Coverage
+.pytest_cache/
+.coverage
+htmlcov/
